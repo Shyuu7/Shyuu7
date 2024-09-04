@@ -41,14 +41,6 @@ Olá! Me chamo Larissa e sou mais uma estudante nesse mundo gigante da programa�
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=LibraryProjectASPNET&theme=cobalt2)](https://github.com/Shyuu7/LibraryProjectASPNET)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=medievalbattle-RPG&theme=cobalt2)](https://github.com/Shyuu7/medievalbattle-RPG)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shyuu7/shyuu7/output/snake.svg" alt="Snake animation" />
-
-### 
-
 # Certificações até o momento
 - AI-900: Microsoft Azure AI Fundamentals
 - Oracle Cloud Infrastructure Generative AI Certified Professional
