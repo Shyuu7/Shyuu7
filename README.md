@@ -37,9 +37,10 @@ Olá! Me chamo Larissa e sou mais uma estudante nesse mundo gigante da programa�
 # Repositórios mais relevantes
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=ml-training&theme=cobalt2)](https://github.com/Shyuu7/ml-training)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=WheelsProject&theme=cobalt2)](https://github.com/Shyuu7/WheelsProject)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=WebScraping&theme=cobalt2)](https://github.com/Shyuu7/WebScraping)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=InfnetFood&theme=cobalt2)](https://github.com/Shyuu7/InfnetFood)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=WheelsProject&theme=cobalt2)](https://github.com/Shyuu7/WheelsProject)
+
 
 # Certificações até o momento
 - AI-900: Microsoft Azure AI Fundamentals
