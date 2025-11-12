@@ -39,14 +39,6 @@ Busco oportunidades em equipes de tecnologia que valorizem inovação, aprendiza
 # Plataformas que uso para aumentar meu conhecimento
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white) ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-# Repositórios mais relevantes
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=ml-training&theme=cobalt2)](https://github.com/Shyuu7/ml-training)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=WheelsProject&theme=cobalt2)](https://github.com/Shyuu7/WheelsProject)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=WebScraping&theme=cobalt2)](https://github.com/Shyuu7/WebScraping)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Shyuu7&repo=InfnetFood&theme=cobalt2)](https://github.com/Shyuu7/InfnetFood)
-
-
 # Certificações até o momento
 - AI-900: Microsoft Azure AI Fundamentals
 - AI-102: Microsoft Azure AI Engineer Associate
