@@ -1,11 +1,11 @@
 # Sobre mim
-Sou uma profissional em transição de carreira para Engenharia de Software, com foco em Inteligência Artificial e Machine Learning. 
-Tenho experiência prática em Python, SQL, Java e C#, além de projetos em Processamento de Linguagem Natural (NLP), Visão Computacional e computação em nuvem (Azure).
+Sou uma profissional em transição de carreira para Engenharia de Software, com foco em desenvolvimento de softwares.
+Tenho experiência prática em Java, Python, Javascript e React para soluções mobile, além de projetos conteinerizados com Docker e Kubernetes.
 
 Minha formação em Medicina contribui para uma visão analítica, disciplinada e orientada à solução de problemas complexos. 
 Hoje, aplico esse background aliado à tecnologia para desenvolver soluções inovadoras de alto impacto. 
 
-Busco oportunidades em equipes de tecnologia que valorizem inovação, aprendizado contínuo e aplicação prática de IA em problemas reais.
+Busco oportunidades em equipes de tecnologia que valorizem inovação, aprendizado contínuo e aplicação prática de soluções em problemas reais.
 
 # Meus contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissaconti/)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@.shyuu/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shyuu7) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:laricbarros@gmail.com)
